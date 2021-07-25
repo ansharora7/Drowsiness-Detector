@@ -1,0 +1,4 @@
+You will also need the 32-bit versions of ‘OpenCV (3.0.0)’ from ‘http://opencv.org/’, ‘Python (2.7)’ from ‘https://www.python.org/’ and ‘numpy (1.10)’from ‘https://sourceforge.net/projects/numpy/'
+Once all these are installed the model works as great as it goes.   
+
+
